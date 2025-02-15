@@ -4,6 +4,7 @@ MarioJo est un jeu de plateforme inspiré de Mario, développé en Python avec P
 
 ## Aperçu
 
+<img width="544" alt="Capture d’écran 2025-02-15 à 14 00 10" src="https://github.com/user-attachments/assets/d7e39a35-4bf8-46ac-b3a9-b0b9594a1f01" />
 
 
 ## Installation
